@@ -2,3 +2,10 @@ node_modules/
 .env
 package-lock.json
  # Thêm nội dung vào .gitignore
+node_modules/
+.env
+package-lock.json
+.DS_Store
+logs/
+*.log
+npm-debug.log*
