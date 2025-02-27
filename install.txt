@@ -1,0 +1,19 @@
+sudo apt install mariadb-server
+apt install npm
+npm install mysql2
+npm fund
+
+
+
+cd backend 
+npm install
+npm install express mysql2 dotenv
+npm fund
+
+
+
+npm install jsonwebtoken
+npm install bcryptjs
+npm install cors
+npm fund
+
