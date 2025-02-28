@@ -17,3 +17,6 @@ npm install bcryptjs
 npm install cors
 npm fund
 
+thu xem co cap nhat khong
+
+tooi nghi chac khong roi
