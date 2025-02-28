@@ -20,3 +20,6 @@ npm fund
 thu xem co cap nhat khong
 
 tooi nghi chac khong roi
+
+
+duoc day ban oi
